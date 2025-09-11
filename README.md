@@ -48,11 +48,3 @@ The goal was to practice **data engineering** (schema design, type conversions, 
 
 ## 🔗 Dataset
 [Kaggle: Motorcycle Dataset by NehalBirla](https://www.kaggle.com/datasets/nehalbirla/motorcycle-dataset)
-
----
-
-## 🚀 How to Use
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/used-motorcycle-analysis-sql.git
-   cd used-motorcycle-analysis-sql
