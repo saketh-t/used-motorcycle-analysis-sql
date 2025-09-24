@@ -1,0 +1,5 @@
+"mileage_bucket","num_listings","avg_selling_usd"
+"Low (<12k)","404","1004.24"
+"Med (12-30k)","443","539.53"
+"High (30-50k)","168","355.39"
+"Very High (>50k)","46","317.71"
