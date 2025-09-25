@@ -5,4 +5,4 @@ Download here: [Motorcycle Dataset by NehalBirla](https://www.kaggle.com/dataset
 
 Once downloaded, import the CSV (`BIKE DETAILS.csv`) into PostgreSQL using the `01_create_raw_table.sql` script.
 
-Analytical queries have been downloaded and imported as CSV files for Tableau visualizations.
+Analytical queries have been downloaded and imported as CSV files from `04_analysis_queries.sql` for Tableau visualizations.
